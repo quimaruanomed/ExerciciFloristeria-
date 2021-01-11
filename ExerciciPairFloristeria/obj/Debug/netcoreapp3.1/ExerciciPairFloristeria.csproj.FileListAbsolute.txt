@@ -1,0 +1,13 @@
+C:\Users\jruan\source\repos\ExerciciPairFloristeria\ExerciciPairFloristeria\bin\Debug\netcoreapp3.1\ExerciciPairFloristeria.exe
+C:\Users\jruan\source\repos\ExerciciPairFloristeria\ExerciciPairFloristeria\bin\Debug\netcoreapp3.1\ExerciciPairFloristeria.deps.json
+C:\Users\jruan\source\repos\ExerciciPairFloristeria\ExerciciPairFloristeria\bin\Debug\netcoreapp3.1\ExerciciPairFloristeria.runtimeconfig.json
+C:\Users\jruan\source\repos\ExerciciPairFloristeria\ExerciciPairFloristeria\bin\Debug\netcoreapp3.1\ExerciciPairFloristeria.runtimeconfig.dev.json
+C:\Users\jruan\source\repos\ExerciciPairFloristeria\ExerciciPairFloristeria\bin\Debug\netcoreapp3.1\ExerciciPairFloristeria.dll
+C:\Users\jruan\source\repos\ExerciciPairFloristeria\ExerciciPairFloristeria\bin\Debug\netcoreapp3.1\ExerciciPairFloristeria.pdb
+C:\Users\jruan\source\repos\ExerciciPairFloristeria\ExerciciPairFloristeria\obj\Debug\netcoreapp3.1\ExerciciPairFloristeria.csprojAssemblyReference.cache
+C:\Users\jruan\source\repos\ExerciciPairFloristeria\ExerciciPairFloristeria\obj\Debug\netcoreapp3.1\ExerciciPairFloristeria.AssemblyInfoInputs.cache
+C:\Users\jruan\source\repos\ExerciciPairFloristeria\ExerciciPairFloristeria\obj\Debug\netcoreapp3.1\ExerciciPairFloristeria.AssemblyInfo.cs
+C:\Users\jruan\source\repos\ExerciciPairFloristeria\ExerciciPairFloristeria\obj\Debug\netcoreapp3.1\ExerciciPairFloristeria.csproj.CoreCompileInputs.cache
+C:\Users\jruan\source\repos\ExerciciPairFloristeria\ExerciciPairFloristeria\obj\Debug\netcoreapp3.1\ExerciciPairFloristeria.dll
+C:\Users\jruan\source\repos\ExerciciPairFloristeria\ExerciciPairFloristeria\obj\Debug\netcoreapp3.1\ExerciciPairFloristeria.pdb
+C:\Users\jruan\source\repos\ExerciciPairFloristeria\ExerciciPairFloristeria\obj\Debug\netcoreapp3.1\ExerciciPairFloristeria.genruntimeconfig.cache
